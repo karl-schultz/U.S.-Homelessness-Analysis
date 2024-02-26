@@ -1,0 +1,52 @@
+State ID,State,Sleeping in Public,Sleeping in Specific Public Areas,Camping in Public,Camping in Specific Public Areas,Lying Down in Public,Sleeping or Living in a Vehicle,Loitering,Loitering in Specific Public Areas,Standing in Roadway,Panhandling in Public,Panhandling in Specific Public Areas,Panhandling in particular ways,Restrictiveness Score,Total Homeless Population,Homeless Per 10k Residents,Chronically Homeless,PeopleInFamilyUnits,SoloIndividuals,UnaccompaniedYouths,Veterans,Sheltered Homeless Population,Individuals Sheltered,Families Sheltered,Unaccompanied Youth Sheltered
+0,Alabama,False,False,False,False,False,False,True,True,True,True,True,True,6,3752,7.4,539,1270,2482,169,308,1626.0,1165.0,461.0,55.0
+1,Alaska,False,False,False,True,False,False,False,False,False,False,False,False,1,2320,31.7,576,560,1760,186,134,1797.0,1295.0,502.0,195.0
+2,Arizona,False,False,False,True,False,False,True,True,True,False,True,True,6,13553,18.6,2476,2846,10707,917,857,5460.0,3304.0,2165.0,249.0
+3,Arkansas,False,False,False,False,False,False,True,True,True,True,True,False,5,2459,8.1,376,328,2131,251,92,1470.0,1204.0,266.0,129.0
+4,California,False,False,True,True,True,False,False,True,True,True,False,False,5,171521,43.7,57760,25538,145983,9590,10395,51429.0,32910.0,18519.0,2526.0
+5,Colorado,False,False,False,True,False,False,False,False,True,False,False,False,2,10397,17.9,3466,2151,8246,453,738,8016.0,5569.0,2447.0,293.0
+6,Connecticut,False,False,False,False,True,False,False,True,True,False,False,False,3,2930,8.1,117,923,2007,113,149,2165.0,1504.0,661.0,96.0
+7,Delaware,False,False,False,False,True,False,True,True,False,True,False,False,4,2369,23.6,196,1304,1065,65,93,1579.0,736.0,843.0,41.0
+8,District of Columbia,False,False,False,False,False,False,False,False,False,False,True,True,2,4410,65.8,1257,1004,3406,360,208,4430.0,3195.0,1235.0,311.0
+9,Florida,False,False,True,False,False,False,True,False,True,False,True,False,4,25959,11.9,4233,6440,19519,1011,2279,13393.0,8412.0,4981.0,686.0
+10,Georgia,False,False,False,True,False,False,True,True,True,False,True,False,5,10689,9.9,1354,2784,7905,479,664,5232.0,3111.0,2121.0,202.0
+11,Hawaii,False,False,False,False,True,True,False,False,False,True,False,False,3,5967,41.4,1495,1488,4479,184,306,2490.0,1142.0,1348.0,56.0
+12,Idaho,False,True,False,False,False,False,False,False,False,False,True,False,1,1998,10.5,238,765,1233,84,149,1017.0,591.0,426.0,92.0
+13,Illinois,False,False,False,True,False,False,False,False,True,False,True,False,3,9212,7.3,1341,2968,6244,628,524,6933.0,4065.0,2868.0,492.0
+14,Indiana,False,False,False,False,False,False,False,False,True,False,True,True,3,5449,8.0,470,1523,3926,267,482,4050.0,2765.0,1285.0,180.0
+15,Iowa,False,False,False,True,False,False,True,True,True,False,False,False,4,2419,7.6,393,753,1666,124,141,2006.0,1321.0,685.0,100.0
+16,Kansas,False,False,False,False,False,False,False,True,True,False,True,False,3,2397,8.2,465,643,1754,126,218,1600.0,1113.0,487.0,99.0
+17,Kentucky,False,False,False,False,False,False,True,True,True,False,True,False,4,3984,8.8,670,993,2991,223,328,2287.0,1704.0,583.0,159.0
+18,Louisiana,False,False,False,False,False,False,False,True,True,False,False,False,2,7373,15.9,397,4314,3059,191,322,1613.0,1150.0,463.0,127.0
+19,Maine,False,False,False,False,True,False,False,True,True,False,False,False,3,4411,32.1,500,1954,2457,209,243,2063.0,1278.0,785.0,107.0
+20,Maryland,False,False,False,False,False,False,True,False,True,False,False,False,2,5349,8.7,899,1758,3591,232,303,4048.0,2764.0,1284.0,252.0
+21,Massachusetts,False,False,False,False,False,False,True,True,False,True,True,False,4,15507,22.2,1558,9976,5531,365,534,13944.0,4278.0,9666.0,351.0
+22,Michigan,False,False,False,False,False,False,True,False,False,False,False,False,1,8206,8.2,1004,3302,4904,451,498,6546.0,3768.0,2778.0,370.0
+23,Minnesota,False,False,False,False,False,False,False,False,True,False,True,False,2,7917,13.9,1773,2960,4957,604,290,6461.0,3716.0,2745.0,505.0
+24,Mississippi,False,True,False,False,False,False,False,False,True,False,True,False,3,1196,4.1,105,105,1091,126,139,359.0,271.0,88.0,16.0
+25,Missouri,False,False,False,False,False,False,False,False,False,False,False,False,0,5992,9.7,1145,1680,4312,466,476,4079.0,2359.0,1720.0,338.0
+26,Montana,False,False,False,False,False,False,False,False,True,False,True,False,2,1585,14.4,343,423,1162,104,172,1168.0,744.0,424.0,42.0
+27,Nebraska,False,False,False,True,False,False,False,True,True,False,False,False,3,2246,11.4,522,574,1672,121,145,1776.0,1280.0,496.0,125.0
+28,Nevada,False,False,False,False,False,False,False,True,False,False,False,False,1,7618,24.2,2752,798,6820,376,752,3293.0,2748.0,545.0,224.0
+29,New Hampshire,True,False,True,False,False,False,True,False,True,False,True,False,5,1605,11.6,341,541,1064,88,127,1171.0,649.0,552.0,42.0
+30,New Jersey,False,False,False,False,False,False,False,True,True,False,True,True,4,8752,9.4,1521,2945,5807,438,479,7443.0,4821.0,2622.0,340.0
+31,New Mexico,False,False,False,True,False,False,False,False,True,False,False,False,2,2560,12.1,714,774,1786,140,91,1972.0,1217.0,755.0,143.0
+32,New York,False,False,False,False,False,False,True,True,False,False,False,False,2,74178,37.7,5994,34805,39373,2762,990,76051.0,37793.0,38258.0,2421.0
+33,North Carolina,False,False,False,False,True,False,False,True,True,False,True,True,5,9382,8.9,1697,2730,6652,415,687,5612.0,3609.0,2003.0,207.0
+34,North Dakota,False,False,False,False,False,False,False,False,True,False,True,False,2,610,7.9,170,171,439,36,37,474.0,290.0,184.0,45.0
+35,Ohio,False,False,False,False,False,False,True,False,False,False,False,False,1,10654,9.0,1023,3214,7440,703,633,7762.0,5020.0,2742.0,506.0
+36,Oklahoma,False,False,False,False,False,True,False,False,True,False,True,False,3,3754,9.4,1247,788,2966,374,273,2331.0,1674.0,657.0,223.0
+37,Oregon,False,False,False,False,False,False,False,False,False,False,False,False,0,17959,42.3,6447,3373,14586,1066,1460,5178.0,4167.0,1011.0,301.0
+38,Pennsylvania,False,False,False,False,False,False,False,True,True,False,True,False,3,12691,9.8,1759,4830,7861,579,778,9364.0,5450.0,3914.0,446.0
+39,Rhode Island,False,False,False,False,False,False,False,True,True,False,False,False,2,1577,14.4,421,506,1071,61,113,1086.0,614.0,472.0,35.0
+40,South Carolina,False,True,False,True,False,True,False,True,True,False,True,False,6,3608,7.0,698,866,2742,211,359,2042.0,1552.0,490.0,112.0
+41,South Dakota,False,False,False,True,False,True,False,False,False,False,False,False,2,1389,15.5,131,418,971,82,40,817.0,517.0,300.0,66.0
+42,Tennessee,False,False,False,True,False,False,False,True,True,False,False,True,4,10567,15.1,1653,2360,8207,518,549,3443.0,2678.0,765.0,130.0
+43,Texas,False,False,True,True,False,False,False,True,True,False,True,False,5,24432,8.3,4812,5853,18579,1226,1711,11275.0,7518.0,3757.0,799.0
+44,Utah,False,False,False,False,False,False,True,False,False,False,False,False,1,3557,10.7,722,1078,2479,189,155,2410.0,1664.0,746.0,132.0
+45,Vermont,False,False,False,False,False,False,False,False,True,False,True,False,2,2780,43.1,398,857,1923,145,100,2591.0,1962.0,629.0,204.0
+46,Virginia,False,False,False,False,False,False,False,True,True,False,False,False,2,6529,7.6,1142,2295,4234,270,392,5335.0,3430.0,1905.0,194.0
+47,Washington,False,False,False,False,False,False,False,False,True,False,False,False,1,25211,32.6,7376,6486,18725,1802,1569,11511.0,7013.0,4498.0,726.0
+48,West Virginia,False,False,False,True,False,False,False,False,True,False,False,False,2,1375,7.7,204,137,1238,135,122,823.0,682.0,141.0,65.0
+49,Wisconsin,False,False,False,True,False,False,True,False,True,False,False,False,3,4775,8.1,510,1889,2886,228,341,3996.0,2275.0,1721.0,153.0
+50,Wyoming,False,False,False,False,False,False,False,False,False,False,False,False,0,648,11.2,83,190,458,64,68,405.0,247.0,158.0,42.0

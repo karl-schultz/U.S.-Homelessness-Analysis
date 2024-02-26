@@ -1,0 +1,52 @@
+State_ID,State,Lat,Lon,Capital
+0,Alabama,32.3669656,-86.3006485,Montgomery
+1,Alaska,58.3019496,-134.419734,Juneau
+2,Arkansas,34.7465071,-92.2896267,Little Rock
+3,Arizona,33.4484367,-112.074141,Phoenix
+4,California,38.5810606,-121.493895,Sacramento
+5,Colorado,39.7392364,-104.984862,Denver
+6,Connecticut,41.764582,-72.6908547,Hartford
+7,District of Columbia,38.8950368,-77.0365427,Washington
+8,Delaware,39.158168,-75.5243682,Dover
+9,Florida,30.4380832,-84.2809332,Tallahassee
+10,Georgia,33.7489924,-84.3902644,Atlanta
+11,Hawaii,21.304547,-157.855676,Honolulu
+12,Iowa,41.5910323,-93.6046655,Des Moines
+13,Idaho,43.6166163,-116.200886,Boise
+14,Illinois,39.7990175,-89.6439575,Springfield
+15,Indiana,39.7683331,-86.1583502,Indianapolis
+16,Kansas,39.049011,-95.677556,Topeka
+17,Kentucky,38.2009055,-84.8732836,Frankfort
+18,Louisiana,30.4494155,-91.1869659,Baton Rouge
+19,Massachusetts,42.3554334,-71.060511,Boston
+20,Maryland,38.9786401,-76.492786,Annapolis
+21,Maine,44.3155295,-69.7700241,Augusta
+22,Michigan,42.7337712,-84.5553805,Lansing
+23,Minnesota,44.9497487,-93.0931028,St. Paul
+24,Missouri,38.577359,-92.1724265,Jefferson City
+25,Mississippi,32.2998686,-90.1830408,Jackson
+26,Montana,46.5927425,-112.036277,Helena
+27,North Carolina,35.7803977,-78.6390989,Raleigh
+28,North Dakota,46.808327,-100.783739,Bismarck
+29,Nebraska,40.8088861,-96.7077751,Lincoln
+30,New Hampshire,43.207178,-71.537476,Concord
+31,New Jersey,40.2205944,-74.7597219,Trenton
+32,New Mexico,35.6876096,-105.938456,Santa Fe
+33,Nevada,39.1698022,-119.7575628,Carson City
+34,New York,42.6511674,-73.754968,Albany
+35,Ohio,39.9622601,-83.0007065,Columbus
+36,Oklahoma,35.4729886,-97.5170536,Oklahoma City
+37,Oregon,44.9391565,-123.033121,Salem
+38,Pennsylvania,40.2663107,-76.8861122,Harrisburg
+39,Rhode Island,41.8239891,-71.4128343,Providence
+40,South Carolina,34.0007493,-81.0343313,Columbia
+41,South Dakota,44.3683644,-100.351136,Pierre
+42,Tennessee,36.1622767,-86.7742984,Nashville
+43,Texas,30.2711286,-97.7436995,Austin
+44,Utah,40.7596198,-111.886797,Salt Lake City
+45,Virginia,37.5385087,-77.43428,Richmond
+46,Vermont,44.2602164,-72.5751208,Montpelier
+47,Washington,47.0451022,-122.8950075,Olympia
+48,Wisconsin,43.074761,-89.3837613,Madison
+49,West Virginia,38.3505995,-81.6332812,Charleston
+50,Wyoming,41.139981,-104.820246,Cheyenne
